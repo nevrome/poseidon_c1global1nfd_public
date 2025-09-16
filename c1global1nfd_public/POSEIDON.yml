@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.1
+title: c1global1nfd_public
+description: 19,954 SNPs for 4,070 modern human individuals and 336 populations from
+  Afro-Eurasia, originally compiled for Peter, Petkova & Novembre 2020 (https://doi.org/10.1093/molbev/msz280),
+  and then published with Shastry, Musiani & Novembre 2025 (https://doi.org/10.1101/2025.02.10.637386).
+contributor:
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+  orcid: 0000-0003-3448-5715
+packageVersion: 1.0.0
+lastModified: 2025-09-16
+genotypeData:
+  format: PLINK
+  genoFile: c1global1nfd_public.bed
+  genoFileChkSum: 2597b8fb49629df848721ceabc084fc7
+  snpFile: c1global1nfd_public.bim
+  snpFileChkSum: 717f727032ef3d8b386d9a39e9481503
+  indFile: c1global1nfd_public.fam
+  indFileChkSum: 076a3d0185bf10fe00d9c43e2985faf0
+  snpSet: Other
+jannoFile: c1global1nfd_public.janno
+jannoFileChkSum: 00f867aa9d9fca2089739d8040e21e47
+bibFile: c1global1nfd_public.bib
+bibFileChkSum: fb12cf7a25bfd8ff04244209a283995e
