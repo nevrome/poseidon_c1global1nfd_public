@@ -6,11 +6,11 @@ With 19,954 SNPs for 4,070 modern human individuals and 336 populations from Afr
 
 Shastry, Musiani \& Novembre 2025 have shared this dataset under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license on zenodo here: <https://doi.org/10.5281/zenodo.15007584>. I share it here in the form of a [Poseidon package](https://www.poseidon-adna.org) with tidy context data and a bibliography in bibtex format.
 
-**Please note that you must cite Peter, Petkova \& Novembre 2020, Shastry, Musiani \& Novembre 2025 and the individual data papers if you want to use this dataset for any purpose.**
+**Please note that you must cite Peter, Petkova \& Novembre 2020, Shastry, Musiani \& Novembre 2025 and the individual data-providing papers if you want to use this dataset for any purpose.**
 
 ***
 
-Here's a list of the  data papers (see [here](c1global1nfd_public/c1global1nfd_public.bib) for the bibtex file):
+Here's a list of the  data-providing papers (see [here](c1global1nfd_public/c1global1nfd_public.bib) for the bibtex file):
 
 > Behar, D., Yunusbayev, B., Metspalu, M., Metspalu, E., Rosset, S., Parik, J., Rootsi, S., Chaubey, G., Kutuev, I., Yudkovsky, G., Khusnutdinova, E., Balanovsky, O., Semino, O., Pereira, L., Comas, D., Gurwitz, D., Bonne-Tamir, B., Parfitt, T., Hammer, M., Skorecki, K., & Villems, R. (2010). The genome-wide structure of the Jewish people. Nature, 466(7303), 238–242.
 
